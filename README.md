@@ -8,7 +8,7 @@ This is python code i have use and ihave installed library pandas scikit-learn t
 
 
 ## [Salary_Data.csv](https://github.com/rushabhmahale/ML-in-docker/blob/main/Salary_Data.csv)
-This is csv file where are going to use to predict this value regarding there experience and in ml we alwas use csv file 
+This is csv file where are going to use to predict this value regarding there experience and in ml we always use csv file 
 
 ## Requirements
 
