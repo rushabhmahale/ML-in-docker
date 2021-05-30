@@ -4,7 +4,7 @@ Check out my video:- (https://drive.google.com/file/d/1Xj8mNwdsvugrJAd16BcZ-FvN5
 I Have created an salary ML model and that ML model is run in the Docker container 
 
 ## [Model.py](https://github.com/rushabhmahale/ML-in-docker/blob/main/model.py)
-This is python code i have use and ihave installed library pandas scikit-learn to predict the model 
+This is file contain of python code i have use and ihave installed library pandas scikit-learn to predict the model 
 
 
 ## [Salary_Data.csv](https://github.com/rushabhmahale/ML-in-docker/blob/main/Salary_Data.csv)
