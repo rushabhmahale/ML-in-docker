@@ -25,7 +25,7 @@ This is csv file where are going to use to predict this value regarding there ex
 
 3. check image what you have using docker images cmnd if you dont have any image use docker pull *any image you want* for example docker pull centos:7 and always use -tag
 
-4. than i have created container using “docker run -it __name CONTAINERNAME centos:latest” 
+4. than i have created container using “docker run -it --name CONTAINERNAME centos:latest” 
  Inside Docker :-
 - rpm -q python3
 - yum install python3 -y
@@ -43,3 +43,5 @@ This is csv file where are going to use to predict this value regarding there ex
 - cd mlmodel
 - python3 model.py 
   
+## Images 
+ - docker pull rushabh21/mldocker:v1
