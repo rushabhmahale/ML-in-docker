@@ -23,7 +23,7 @@ This is csv file where are going to use to predict this value regarding there ex
 
 2. now start the docker service using cmnd systemctl start docker if you are using linux if you are using windows use this cmnd Start->Run-> services.msc 
 
-3. check image what you have using docker images cmnd if you dont have any image use docker pull *any image you want* for example docker pull centos:7 and always -tag
+3. check image what you have using docker images cmnd if you dont have any image use docker pull *any image you want* for example docker pull centos:7 and always use -tag
 
 4. than i have created container using “docker run -it __name CONTAINERNAME centos:latest” 
  Inside Docker :-
