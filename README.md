@@ -44,4 +44,5 @@ This is csv file where are going to use to predict this value regarding there ex
 - python3 model.py 
   
 ## Images 
- - docker pull rushabh21/mldocker:v1
+- docker pull rushabh21/mldocker:v1
+- https://hub.docker.com/r/rushabh21/mldocker
