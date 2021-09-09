@@ -19,13 +19,13 @@ This is csv file where are going to use to predict this value regarding there ex
 
 ## Set up
 
-1. first install docker in your system using cmnd yum install docker-ce --nobest -y ⚠️ create repo of docker ⚠️ Than install docker 
+1. first install docker in your system using cmnd yum install docker-ce --nobest -y ⚠️ create repo of docker ⚠️ Then install docker 
 
 2. now start the docker service using cmnd systemctl start docker if you are using linux if you are using windows use this cmnd Start->Run-> services.msc 
 
 3. check image what you have using docker images cmnd if you dont have any image use docker pull *any image you want* for example docker pull centos:7 and always use -tag
 
-4. than i have created container using “docker run -it --name CONTAINERNAME centos:latest” 
+4. Then i have created container using “docker run -it --name CONTAINERNAME centos:latest” 
  Inside Docker :-
 - rpm -q python3
 - yum install python3 -y
